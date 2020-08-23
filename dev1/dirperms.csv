@@ -1,0 +1,168 @@
+Directory_Name,AD_Object,Permission_Type,Permission
+C:\:,NT AUTHORITY\SYSTEM,Allowed:,Full Control
+C:\:,BUILTIN\Administrators,Allowed:,Full Control
+C:\:,BUILTIN\Users,Allowed:,Read & Execute
+C:\:,BUILTIN\Users,Allowed:,Create Folders
+C:\:,BUILTIN\Users,Allowed:,Create Files
+C:\Inetpub:,No ACL Found,N/A,N/A
+C:\Inetpub\AdminScripts:,No ACL Found,N/A,N/A
+C:\Inetpub\mailroot:,No ACL Found,N/A,N/A
+C:\Inetpub\wwwroot:,No ACL Found,N/A,N/A
+C:\MSSQL2000:,No ACL Found,N/A,N/A
+C:\MSSQL2000\MSSQL\JOBS:,No ACL Found,N/A,N/A
+C:\MSSQL2000\MSSQL\LOG:,No ACL Found,N/A,N/A
+C:\Program Files\Microsoft SQL Server\MSSQL\Binn:,No ACL Found,N/A,N/A
+C:\Program Files\Microsoft SQL Server\MSSQL\Data:,No ACL Found,N/A,N/A
+C:\Temp:,No ACL Found,N/A,N/A
+C:\Windows:,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows:,NT AUTHORITY\SYSTEM,Allowed:,Modify
+C:\Windows:,BUILTIN\Administrators,Allowed:,Modify
+C:\Windows:,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows:,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows:,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\Installer:,NT AUTHORITY\SYSTEM,Allowed:,Full Control
+C:\Windows\Installer:,\Everyone,Allowed:,Read & Execute
+C:\Windows\Installer:,BUILTIN\Administrators,Allowed:,Full Control
+C:\Windows\repair:,No ACL Found,N/A,N/A
+C:\Windows\security:,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\security:,NT AUTHORITY\SYSTEM,Allowed:,Modify
+C:\Windows\security:,BUILTIN\Administrators,Allowed:,Modify
+C:\Windows\security:,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\security:,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\security:,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32:,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32:,NT AUTHORITY\SYSTEM,Allowed:,Modify
+C:\Windows\system32:,BUILTIN\Administrators,Allowed:,Modify
+C:\Windows\system32:,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32:,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32:,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\drivers:,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\drivers:,NT AUTHORITY\SYSTEM,Allowed:,Modify
+C:\Windows\system32\drivers:,BUILTIN\Administrators,Allowed:,Modify
+C:\Windows\system32\drivers:,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\drivers:,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\drivers:,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\config:,NT AUTHORITY\Authenticated Users,Allowed:,Read & Execute
+C:\Windows\system32\config:,BUILTIN\Server Operators,Allowed:,Read & Execute
+C:\Windows\system32\config:,BUILTIN\Administrators,Allowed:,Full Control
+C:\Windows\system32\config:,NT AUTHORITY\SYSTEM,Allowed:,Full Control
+C:\Windows\system32\spool:,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\spool:,NT AUTHORITY\SYSTEM,Allowed:,Full Control
+C:\Windows\system32\spool:,BUILTIN\Administrators,Allowed:,Full Control
+C:\Windows\system32\spool:,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\spool:,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\spool:,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\spool\printers:,BUILTIN\Users,Allowed:,Create Folders
+C:\Windows\system32\spool\printers:,BUILTIN\Users,Allowed:,Read Attributes
+C:\Windows\system32\spool\printers:,BUILTIN\Users,Allowed:,Read Extended Attributes
+C:\Windows\system32\spool\printers:,BUILTIN\Users,Allowed:,Create Files
+C:\Windows\system32\spool\printers:,NT AUTHORITY\SYSTEM,Allowed:,Create Folders
+C:\Windows\system32\spool\printers:,NT AUTHORITY\SYSTEM,Allowed:,Delete
+C:\Windows\system32\spool\printers:,NT AUTHORITY\SYSTEM,Allowed:,Delete Subfolders And Files
+C:\Windows\system32\spool\printers:,NT AUTHORITY\SYSTEM,Allowed:,Read Attributes
+C:\Windows\system32\spool\printers:,NT AUTHORITY\SYSTEM,Allowed:,Read Permissions
+C:\Windows\system32\spool\printers:,NT AUTHORITY\SYSTEM,Allowed:,List Folder
+C:\Windows\system32\spool\printers:,NT AUTHORITY\SYSTEM,Allowed:,Read Extended Attributes
+C:\Windows\system32\spool\printers:,NT AUTHORITY\SYSTEM,Allowed:,Write Attributes
+C:\Windows\system32\spool\printers:,NT AUTHORITY\SYSTEM,Allowed:,Change Permissions
+C:\Windows\system32\spool\printers:,NT AUTHORITY\SYSTEM,Allowed:,Create Files
+C:\Windows\system32\spool\printers:,NT AUTHORITY\SYSTEM,Allowed:,Write Extended Attributes
+C:\Windows\system32\spool\printers:,NT AUTHORITY\SYSTEM,Allowed:,Take Ownership
+C:\Windows\system32\spool\printers:,\CREATOR OWNER,Allowed:,Create Folders
+C:\Windows\system32\spool\printers:,\CREATOR OWNER,Allowed:,Delete
+C:\Windows\system32\spool\printers:,\CREATOR OWNER,Allowed:,Delete Subfolders And Files
+C:\Windows\system32\spool\printers:,\CREATOR OWNER,Allowed:,Read Attributes
+C:\Windows\system32\spool\printers:,\CREATOR OWNER,Allowed:,Read Permissions
+C:\Windows\system32\spool\printers:,\CREATOR OWNER,Allowed:,List Folder
+C:\Windows\system32\spool\printers:,\CREATOR OWNER,Allowed:,Read Extended Attributes
+C:\Windows\system32\spool\printers:,\CREATOR OWNER,Allowed:,Write Attributes
+C:\Windows\system32\spool\printers:,\CREATOR OWNER,Allowed:,Change Permissions
+C:\Windows\system32\spool\printers:,\CREATOR OWNER,Allowed:,Create Files
+C:\Windows\system32\spool\printers:,\CREATOR OWNER,Allowed:,Write Extended Attributes
+C:\Windows\system32\spool\printers:,\CREATOR OWNER,Allowed:,Take Ownership
+C:\Windows\system32\spool\printers:,NT AUTHORITY\SYSTEM,Allowed:,Create Folders
+C:\Windows\system32\spool\printers:,NT AUTHORITY\SYSTEM,Allowed:,Delete
+C:\Windows\system32\spool\printers:,NT AUTHORITY\SYSTEM,Allowed:,Delete Subfolders And Files
+C:\Windows\system32\spool\printers:,NT AUTHORITY\SYSTEM,Allowed:,Read Attributes
+C:\Windows\system32\spool\printers:,NT AUTHORITY\SYSTEM,Allowed:,Read Permissions
+C:\Windows\system32\spool\printers:,NT AUTHORITY\SYSTEM,Allowed:,List Folder
+C:\Windows\system32\spool\printers:,NT AUTHORITY\SYSTEM,Allowed:,Read Extended Attributes
+C:\Windows\system32\spool\printers:,NT AUTHORITY\SYSTEM,Allowed:,Write Attributes
+C:\Windows\system32\spool\printers:,NT AUTHORITY\SYSTEM,Allowed:,Change Permissions
+C:\Windows\system32\spool\printers:,NT AUTHORITY\SYSTEM,Allowed:,Create Files
+C:\Windows\system32\spool\printers:,NT AUTHORITY\SYSTEM,Allowed:,Write Extended Attributes
+C:\Windows\system32\spool\printers:,NT AUTHORITY\SYSTEM,Allowed:,Take Ownership
+C:\Windows\system32\spool\printers:,BUILTIN\Administrators,Allowed:,Create Folders
+C:\Windows\system32\spool\printers:,BUILTIN\Administrators,Allowed:,Delete
+C:\Windows\system32\spool\printers:,BUILTIN\Administrators,Allowed:,Delete Subfolders And Files
+C:\Windows\system32\spool\printers:,BUILTIN\Administrators,Allowed:,Read Attributes
+C:\Windows\system32\spool\printers:,BUILTIN\Administrators,Allowed:,Read Permissions
+C:\Windows\system32\spool\printers:,BUILTIN\Administrators,Allowed:,List Folder
+C:\Windows\system32\spool\printers:,BUILTIN\Administrators,Allowed:,Read Extended Attributes
+C:\Windows\system32\spool\printers:,BUILTIN\Administrators,Allowed:,Write Attributes
+C:\Windows\system32\spool\printers:,BUILTIN\Administrators,Allowed:,Change Permissions
+C:\Windows\system32\spool\printers:,BUILTIN\Administrators,Allowed:,Create Files
+C:\Windows\system32\spool\printers:,BUILTIN\Administrators,Allowed:,Write Extended Attributes
+C:\Windows\system32\spool\printers:,BUILTIN\Administrators,Allowed:,Take Ownership
+C:\Windows\system32\spool\drivers:,NT AUTHORITY\SYSTEM,Allowed:,Full Control
+C:\Windows\system32\spool\drivers:,BUILTIN\Administrators,Allowed:,Full Control
+C:\Windows\system32\spool\drivers:,\Everyone,Allowed:,Read & Execute
+C:\Windows\system32\spool\drivers:,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\SYSVOL:,No ACL Found,N/A,N/A
+C:\Windows\ntds:,No ACL Found,N/A,N/A
+C:\Windows\ntfrs:,No ACL Found,N/A,N/A
+Share Path: C:\Windows:,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+Share Path: C:\Windows:,NT AUTHORITY\SYSTEM,Allowed:,Modify
+Share Path: C:\Windows:,BUILTIN\Administrators,Allowed:,Modify
+Share Path: C:\Windows:,BUILTIN\Users,Allowed:,Read & Execute
+Share Path: C:\Windows:,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+Share Path: C:\Windows:,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+Share Path: C:\:,NT AUTHORITY\SYSTEM,Allowed:,Full Control
+Share Path: C:\:,BUILTIN\Administrators,Allowed:,Full Control
+Share Path: C:\:,BUILTIN\Users,Allowed:,Read & Execute
+Share Path: C:\:,BUILTIN\Users,Allowed:,Create Folders
+Share Path: C:\:,BUILTIN\Users,Allowed:,Create Files
+Share Path: D:\:,BUILTIN\Administrators,Allowed:,Full Control
+Share Path: D:\:,NT AUTHORITY\SYSTEM,Allowed:,Full Control
+Share Path: D:\:,BUILTIN\Users,Allowed:,Read & Execute
+Share Path: D:\:,BUILTIN\Users,Allowed:,Create Folders
+Share Path: D:\:,BUILTIN\Users,Allowed:,Create Files
+Share Path: D:\:,\Everyone,Allowed:,Read & Execute
+Share Path: E:\:,BUILTIN\Administrators,Allowed:,Full Control
+Share Path: E:\:,NT AUTHORITY\SYSTEM,Allowed:,Full Control
+Share Path: E:\:,BUILTIN\Users,Allowed:,Read & Execute
+Share Path: E:\:,BUILTIN\Users,Allowed:,Create Folders
+Share Path: E:\:,BUILTIN\Users,Allowed:,Create Files
+Share Path: E:\:,\Everyone,Allowed:,Read & Execute
+Share Path: E:\AD\SYSVOL\sysvol\banistmo.corp\SCRIPTS:,NT AUTHORITY\Authenticated Users,Allowed:,Read & Execute
+Share Path: E:\AD\SYSVOL\sysvol\banistmo.corp\SCRIPTS:,BUILTIN\Server Operators,Allowed:,Read & Execute
+Share Path: E:\AD\SYSVOL\sysvol\banistmo.corp\SCRIPTS:,BUILTIN\Administrators,Allowed:,Create Folders
+Share Path: E:\AD\SYSVOL\sysvol\banistmo.corp\SCRIPTS:,BUILTIN\Administrators,Allowed:,Traverse Folder
+Share Path: E:\AD\SYSVOL\sysvol\banistmo.corp\SCRIPTS:,BUILTIN\Administrators,Allowed:,Read Attributes
+Share Path: E:\AD\SYSVOL\sysvol\banistmo.corp\SCRIPTS:,BUILTIN\Administrators,Allowed:,Read Permissions
+Share Path: E:\AD\SYSVOL\sysvol\banistmo.corp\SCRIPTS:,BUILTIN\Administrators,Allowed:,List Folder
+Share Path: E:\AD\SYSVOL\sysvol\banistmo.corp\SCRIPTS:,BUILTIN\Administrators,Allowed:,Read Extended Attributes
+Share Path: E:\AD\SYSVOL\sysvol\banistmo.corp\SCRIPTS:,BUILTIN\Administrators,Allowed:,Write Attributes
+Share Path: E:\AD\SYSVOL\sysvol\banistmo.corp\SCRIPTS:,BUILTIN\Administrators,Allowed:,Change Permissions
+Share Path: E:\AD\SYSVOL\sysvol\banistmo.corp\SCRIPTS:,BUILTIN\Administrators,Allowed:,Create Files
+Share Path: E:\AD\SYSVOL\sysvol\banistmo.corp\SCRIPTS:,BUILTIN\Administrators,Allowed:,Write Extended Attributes
+Share Path: E:\AD\SYSVOL\sysvol\banistmo.corp\SCRIPTS:,BUILTIN\Administrators,Allowed:,Take Ownership
+Share Path: E:\AD\SYSVOL\sysvol\banistmo.corp\SCRIPTS:,NT AUTHORITY\SYSTEM,Allowed:,Full Control
+Share Path: E:\AD\SYSVOL\sysvol:,NT AUTHORITY\Authenticated Users,Allowed:,Read & Execute
+Share Path: E:\AD\SYSVOL\sysvol:,BUILTIN\Server Operators,Allowed:,Read & Execute
+Share Path: E:\AD\SYSVOL\sysvol:,BUILTIN\Administrators,Allowed:,Create Folders
+Share Path: E:\AD\SYSVOL\sysvol:,BUILTIN\Administrators,Allowed:,Traverse Folder
+Share Path: E:\AD\SYSVOL\sysvol:,BUILTIN\Administrators,Allowed:,Read Attributes
+Share Path: E:\AD\SYSVOL\sysvol:,BUILTIN\Administrators,Allowed:,Read Permissions
+Share Path: E:\AD\SYSVOL\sysvol:,BUILTIN\Administrators,Allowed:,List Folder
+Share Path: E:\AD\SYSVOL\sysvol:,BUILTIN\Administrators,Allowed:,Read Extended Attributes
+Share Path: E:\AD\SYSVOL\sysvol:,BUILTIN\Administrators,Allowed:,Write Attributes
+Share Path: E:\AD\SYSVOL\sysvol:,BUILTIN\Administrators,Allowed:,Change Permissions
+Share Path: E:\AD\SYSVOL\sysvol:,BUILTIN\Administrators,Allowed:,Create Files
+Share Path: E:\AD\SYSVOL\sysvol:,BUILTIN\Administrators,Allowed:,Write Extended Attributes
+Share Path: E:\AD\SYSVOL\sysvol:,BUILTIN\Administrators,Allowed:,Take Ownership
+Share Path: E:\AD\SYSVOL\sysvol:,BUILTIN\Administrators,Allowed:,Change Permissions
+Share Path: E:\AD\SYSVOL\sysvol:,BUILTIN\Administrators,Allowed:,Take Ownership
+Share Path: E:\AD\SYSVOL\sysvol:,NT AUTHORITY\SYSTEM,Allowed:,Full Control
+Share Path: E:\AD\SYSVOL\sysvol:,\CREATOR OWNER,Allowed:,Change Permissions
+Share Path: E:\AD\SYSVOL\sysvol:,\CREATOR OWNER,Allowed:,Take Ownership

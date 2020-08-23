@@ -1,0 +1,10 @@
+Policy	Database Setting	Computer Setting
+Maximum application log size	16384 kilobytes	30720 kilobytes
+Maximum security log size	81920 kilobytes	153600 kilobytes
+Maximum system log size	16384 kilobytes	30720 kilobytes
+Prevent local guests group from accessing application log	Enabled	Enabled
+Prevent local guests group from accessing security log	Enabled	Enabled
+Prevent local guests group from accessing system log	Enabled	Enabled
+Retention method for application log	Manually	As needed
+Retention method for security log	Manually	As needed
+Retention method for system log	Manually	As needed

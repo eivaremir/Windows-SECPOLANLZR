@@ -1,0 +1,4 @@
+Group,Member,Group,Group_Description
+Users,BANISTMO/Domain Users,Users,Users are prevented from making accidental or intentional system-wide changes and can run most applications
+Users,NT AUTHORITY/Authenticated Users,Users,Users are prevented from making accidental or intentional system-wide changes and can run most applications
+Users,NT AUTHORITY/INTERACTIVE,Users,Users are prevented from making accidental or intentional system-wide changes and can run most applications

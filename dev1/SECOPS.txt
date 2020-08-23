@@ -1,0 +1,102 @@
+Policy	Database Setting	Computer Setting
+Accounts: Administrator account status	Not Defined	Enabled
+Accounts: Block Microsoft accounts	Not Analyzed	Not Analyzed
+Accounts: Guest account status	Disabled	Disabled
+Accounts: Limit local account use of blank passwords to console logon only	Enabled	Enabled
+Accounts: Rename administrator account	xadministrator	Huawie
+Accounts: Rename guest account	xguest	Kemnp
+Audit: Audit the access of global system objects	Not Analyzed	Disabled
+Audit: Audit the use of Backup and Restore privilege	Not Analyzed	Disabled
+Audit: Force audit policy subcategory settings (Windows Vista or later) to override audit policy category settings	Not Analyzed	Enabled
+Audit: Shut down system immediately if unable to log security audits	Enabled	Disabled
+DCOM: Machine Access Restrictions in Security Descriptor Definition Language (SDDL) syntax	Not Analyzed	
+DCOM: Machine Launch Restrictions in Security Descriptor Definition Language (SDDL) syntax	Not Analyzed	
+Devices: Allow undock without having to log on	Disabled	Enabled
+Devices: Allowed to format and eject removable media	Administrators	Administrators
+Devices: Prevent users from installing printer drivers	Enabled	Enabled
+Devices: Restrict CD-ROM access to locally logged-on user only	Not Analyzed	Disabled
+Devices: Restrict floppy access to locally logged-on user only	Not Analyzed	Enabled
+Domain controller: Allow server operators to schedule tasks	Disabled	Enabled
+Domain controller: Allow vulnerable Netlogon secure channel connections	Not Analyzed	Not Analyzed
+Domain controller: LDAP server channel binding token requirements	Not Analyzed	Not Analyzed
+Domain controller: LDAP server signing requirements	Require signing	None
+Domain controller: Refuse machine account password changes	Disabled	Not Analyzed
+Domain member: Digitally encrypt or sign secure channel data (always)	Enabled	Enabled
+Domain member: Digitally encrypt secure channel data (when possible)	Enabled	Enabled
+Domain member: Digitally sign secure channel data (when possible)	Enabled	Enabled
+Domain member: Disable machine account password changes	Disabled	Disabled
+Domain member: Maximum machine account password age	30 days	30 days
+Domain member: Require strong (Windows 2000 or later) session key	Enabled	Enabled
+Interactive logon: Display user information when the session is locked	Not Analyzed	Not Analyzed
+Interactive logon: Do not require CTRL+ALT+DEL	Disabled	Disabled
+Interactive logon: Don't display last signed-in	Enabled	Disabled
+Interactive logon: Don't display username at sign-in	Not Analyzed	Not Analyzed
+Interactive logon: Machine account lockout threshold	Not Analyzed	Not Analyzed
+Interactive logon: Machine inactivity limit	Not Analyzed	300 seconds
+Interactive logon: Message text for users attempting to log on	You are accessing a U.S. Government (USG) Information System (IS) that is provided for USG-authorized use only. By using this IS (which includes any device attached to this IS), you consent to the following conditions:,-The USG routinely intercepts and monitors communications on this IS for purposes including, but not limited to, penetration testing, COMSEC, monitoring, network operations and defense, personnel misconduct (PM), law enforcement (LE), and counterintelligence (CI) investigations.,-At any time the USG may inspect and seize data stored on this IS.,-Communications using, or data stored on, this IS are not private, are subject to routine monitoring, interception, and search, and may be disclosed or used for any USG-authorized purpose.,-This IS includes security measures (e.g., authentication and access controls) to protect USG interests—not for your personal benefit or privacy.,-Notwithstanding the above, using this IS does not constitute consent to PM, LE or CI investigative searching or monitoring of the content of privileged communications, or work product, related to personal representation or services by attorneys, psychotherapists, or clergy, and their assistants. Such communications and work product are private and confidential. See User Agreement for details.	
+Interactive logon: Message title for users attempting to log on	US DEPARTMENT OF DEFENSE WARNING STATEMENT	
+Interactive logon: Number of previous logons to cache (in case domain controller is not available)	2 logons	10 logons
+Interactive logon: Prompt user to change password before expiration	14 days	5 days
+Interactive logon: Require Domain Controller authentication to unlock workstation	Enabled	Disabled
+Interactive logon: Require Windows Hello for Business or smart card	Not Analyzed	Disabled
+Interactive logon: Smart card removal behavior	Lock Workstation	No Action
+Microsoft network client: Digitally sign communications (always)	Enabled	Disabled
+Microsoft network client: Digitally sign communications (if server agrees)	Enabled	Enabled
+Microsoft network client: Send unencrypted password to third-party SMB servers	Disabled	Disabled
+Microsoft network server: Amount of idle time required before suspending session	15 minutes	15 minutes
+Microsoft network server: Attempt S4U2Self to obtain claim information	Not Analyzed	Not Analyzed
+Microsoft network server: Digitally sign communications (always)	Enabled	Enabled
+Microsoft network server: Digitally sign communications (if client agrees)	Enabled	Enabled
+Microsoft network server: Disconnect clients when logon hours expire	Enabled	Enabled
+Microsoft network server: Server SPN target name validation level	Not Analyzed	Not Analyzed
+Network access: Allow anonymous SID/Name translation	Disabled	Enabled
+Network access: Do not allow anonymous enumeration of SAM accounts	Enabled	Enabled
+Network access: Do not allow anonymous enumeration of SAM accounts and shares	Enabled	Disabled
+Network access: Do not allow storage of passwords and credentials for network authentication	Enabled	Disabled
+Network access: Let Everyone permissions apply to anonymous users	Disabled	Disabled
+Network access: Named Pipes that can be accessed anonymously	COMNAP,COMNODE,SQL\QUERY,SPOOLSS,LLSRPC,Netlogon,Lsarpc,Samr,Browser	
+Network access: Remotely accessible registry paths	System\CurrentControlSet\Control\ProductOptions,System\CurrentControlSet\Control\Server Applications,Software\Microsoft\Windows NT\CurrentVersion	System\CurrentControlSet\Control\ProductOptions,System\CurrentControlSet\Control\Server Applications,Software\Microsoft\Windows NT\CurrentVersion
+Network access: Remotely accessible registry paths and sub-paths	Software\Microsoft\Windows NT\CurrentVersion\Print,Software\Microsoft\Windows NT\CurrentVersion\Windows,System\CurrentControlSet\Control\Print\Printers,System\CurrentControlSet\Services\Eventlog,Software\Microsoft\OLAP Server,System\CurrentControlSet\Control\ContentIndex,System\CurrentControlSet\Control\Terminal Server,System\CurrentControlSet\Control\Terminal Server\UserConfig,System\CurrentControlSet\Control\Terminal Server\DefaultUserConfiguration,Software\Microsoft\Windows NT\CurrentVersion\Perflib,System\CurrentControlSet\Services\SysmonLog	System\CurrentControlSet\Control\Print\Printers,System\CurrentControlSet\Services\Eventlog,Software\Microsoft\OLAP Server,Software\Microsoft\Windows NT\CurrentVersion\Print,Software\Microsoft\Windows NT\CurrentVersion\Windows,System\CurrentControlSet\Control\ContentIndex,System\CurrentControlSet\Control\Terminal Server,System\CurrentControlSet\Control\Terminal Server\UserConfig,System\CurrentControlSet\Control\Terminal Server\DefaultUserConfiguration,Software\Microsoft\Windows NT\CurrentVersion\Perflib,System\CurrentControlSet\Services\SysmonLog
+Network access: Restrict anonymous access to Named Pipes and Shares	Enabled	Enabled
+Network access: Restrict clients allowed to make remote calls to SAM	Not Analyzed	
+Network access: Shares that can be accessed anonymously		
+Network access: Sharing and security model for local accounts	Classic - local users authenticate as themselves	Classic - local users authenticate as themselves
+Network security: Allow Local System to use computer identity for NTLM	Not Analyzed	Not Analyzed
+Network security: Allow LocalSystem NULL session fallback	Not Analyzed	Not Analyzed
+Network security: Allow PKU2U authentication requests to this computer to use online identities.
+
+	Not Analyzed	Not Analyzed
+Network security: Configure encryption types allowed for Kerberos	Not Analyzed	Not Analyzed
+Network security: Do not store LAN Manager hash value on next password change	Enabled	Enabled
+Network security: Force logoff when logon hours expire	Enabled	Enabled
+Network security: LAN Manager authentication level	Send NTLMv2 response only. Refuse LM	Send NTLMv2 response only. Refuse LM & NTLM
+Network security: LDAP client signing requirements	Negotiate signing	Negotiate signing
+Network security: Minimum session security for NTLM SSP based (including secure RPC) clients	Require NTLMv2 session security,Require 128-bit encryption	Require 128-bit encryption
+Network security: Minimum session security for NTLM SSP based (including secure RPC) servers	Require NTLMv2 session security,Require 128-bit encryption	Require 128-bit encryption
+Network security: Restrict NTLM: Add remote server exceptions for NTLM authentication	Not Analyzed	
+Network security: Restrict NTLM: Add server exceptions in this domain	Not Analyzed	
+Network security: Restrict NTLM: Audit Incoming NTLM Traffic	Not Analyzed	Not Analyzed
+Network security: Restrict NTLM: Audit NTLM authentication in this domain	Not Analyzed	Not Analyzed
+Network security: Restrict NTLM: Incoming NTLM traffic	Not Analyzed	Not Analyzed
+Network security: Restrict NTLM: NTLM authentication in this domain	Not Analyzed	Not Analyzed
+Network security: Restrict NTLM: Outgoing NTLM traffic to remote servers	Not Analyzed	Not Analyzed
+Recovery console: Allow automatic administrative logon	Disabled	Disabled
+Recovery console: Allow floppy copy and access to all drives and all folders	Disabled	Disabled
+Shutdown: Allow system to be shut down without having to log on	Disabled	Disabled
+Shutdown: Clear virtual memory pagefile	Not Analyzed	Disabled
+System cryptography: Force strong key protection for user keys stored on the computer	User must enter a password each time they use a key	Not Analyzed
+System cryptography: Use FIPS compliant algorithms for encryption, hashing, and signing	Not Analyzed	Disabled
+System objects: Require case insensitivity for non-Windows subsystems	Enabled	Enabled
+System objects: Strengthen default permissions of internal system objects (e.g. Symbolic Links)	Enabled	Enabled
+System settings: Optional subsystems		
+System settings: Use Certificate Rules on Windows Executables for Software Restriction Policies	Enabled	Disabled
+User Account Control: Admin Approval Mode for the Built-in Administrator account	Not Analyzed	Enabled
+User Account Control: Allow UIAccess applications to prompt for elevation without using the secure desktop	Not Analyzed	Disabled
+User Account Control: Behavior of the elevation prompt for administrators in Admin Approval Mode	Not Analyzed	Prompt for consent
+User Account Control: Behavior of the elevation prompt for standard users	Not Analyzed	Prompt for credentials
+User Account Control: Detect application installations and prompt for elevation	Not Analyzed	Enabled
+User Account Control: Only elevate executables that are signed and validated	Not Analyzed	Disabled
+User Account Control: Only elevate UIAccess applications that are installed in secure locations	Not Analyzed	Enabled
+User Account Control: Run all administrators in Admin Approval Mode	Not Analyzed	Enabled
+User Account Control: Switch to the secure desktop when prompting for elevation	Not Analyzed	Enabled
+User Account Control: Virtualize file and registry write failures to per-user locations	Not Analyzed	Enabled

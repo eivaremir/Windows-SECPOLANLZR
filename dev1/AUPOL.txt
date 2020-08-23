@@ -1,0 +1,10 @@
+Policy	Database Setting	Computer Setting
+Audit account logon events	Success, Failure	Success
+Audit account management	Success, Failure	Success
+Audit directory service access	Failure	No auditing
+Audit logon events	Success, Failure	No auditing
+Audit object access	Failure	No auditing
+Audit policy change	Success	No auditing
+Audit privilege use	Failure	Failure
+Audit process tracking	Not Defined	No auditing
+Audit system events	Success	Success

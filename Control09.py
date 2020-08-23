@@ -4,19 +4,11 @@ import numpy as np
 CONTROL_NUMBER = 9
 DEBUG = False
 
-def execute(outdir):
+def execute(outdir,groups,usersMatrix):
     print("[Control 09] Executing...")
     #################################
 
-    print("[Control 09] Reading groups.csv")
-    try:
-        df = pd.read_csv(outdir+"\\groups.csv", encoding = "ISO-8859-1")
-    except Exception as e:
-        print("[Control 09] FATAL ERROR: "+str(e))
-
-    print("[Control 09] Reading users.csv")
-    usersMatrix = pd.read_csv(outdir+"\\UsersMatrix.txt", sep="|",encoding = "ISO-8859-1")
-    
+    df = groups
 
     #################################
     print("[Control 09] Setting GROUP index")

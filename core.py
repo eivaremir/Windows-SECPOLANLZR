@@ -1,7 +1,8 @@
 import sys
 import SettingsParser
 import Control09 
-
+import pandas as pd
+import numpy as np
 ############################################################
 # Gather the working directory
 outdir = sys.argv[1]
@@ -15,12 +16,14 @@ print("Working Directory: ",outdir)
 ############################################################
 # Parse Settings
 print("Parsing Settings",outdir)
-s = readXML(outdir)
+s = SettingsParser.readXML(outdir)
 print("Reading Sensitive Permissions")
-SensPerms = parseSensitivePermissions(s)
+SensPerms = SettingsParser.parseSensitivePermissions(s)
 print("Reading Audit Labels")
-AuditLables = parseNoAuditLabels(s)
+AuditLables = SettingsParser.parseNoAuditLabels(s)
 
+print("Reading Control 01 Settings")
+CS01 = SettingsParser.parseControlSettings_01(s)
 
 print("Settings read")
 ############################################################

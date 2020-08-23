@@ -1,0 +1,7 @@
+Policy	Database Setting	Computer Setting
+Enforce password history	24 passwords remembered	12 passwords remembered
+Maximum password age	60 days	90 days
+Minimum password age	1 days	1 days
+Minimum password length	14 characters	14 characters
+Password must meet complexity requirements	Enabled	Enabled
+Store passwords using reversible encryption	Disabled	Disabled

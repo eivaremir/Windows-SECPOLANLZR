@@ -1,0 +1,102 @@
+<WizardValues>
+  <Value name="ServerName">(PAPROWDC0002)</Value>
+  <Value name="Check Box (500)">True</Value>
+  <Value name="ScriptOutputDirectory">C:\Users\EMORALES\Documents\Clientes\Banistmo 2020\ITGCs\Dominio</Value>
+  <Value name="ReportFormat">.xlsx</Value>
+  <Value name="CB_Debug_Mode">False</Value>
+  <Value name="CB_ExportProcessingDetail">True</Value>
+  <Value name="Radio Button (460)">True</Value>
+  <Value name="Radio Button (461)">False</Value>
+  <Value name="TB_GS_AP_Labels">No auditing
+No auditando</Value>
+  <Value name="TB_GS_FSAM_SensitivePermissions">Change Permissions
+Delete
+Delete Subfolders And Files
+Full Control
+Full Conrol
+Modify
+Take Ownership
+Write Attributes
+Write Extended Attributes</Value>
+  <Value name="TB_CS_01">C:\\Windows\\system32\\winevt\\Logs\\System.evtx
+C:\\Windows\\system32\\winevt\\Logs\\Security.evtx
+C:\\Windows\\system32\\winevt\\Logs\\Application.evtx
+C:\\Windows\\system32\\config\\APPEVENT.EVT
+C:\\Windows\\system32\\config\\SECEVENT.EVT
+C:\\Windows\\system32\\config\\SYSEVENT.EVT</Value>
+  <Value name="TB_CS_02">Audit account logon events</Value>
+  <Value name="TB_CS_03">Audit privilege use</Value>
+  <Value name="TB_CS_04">Audit account management</Value>
+  <Value name="TB_CS_05">Audit policy change</Value>
+  <Value name="TB_CS_06">Audit system events</Value>
+  <Value name="TB_CS_07_Security_lbl">Maximum security log size</Value>
+  <Value name="TB_CS_07_Security_size">100</Value>
+  <Value name="TB_CS_07_Application_lbl">Maximum application log size</Value>
+  <Value name="TB_CS_07_Application_size">100</Value>
+  <Value name="TB_CS_07_System_lbl">Maximum system log size</Value>
+  <Value name="TB_CS_07_System_size">100</Value>
+  <Value name="TB_CS_11">C:\\:
+C:\\Windows:
+C:\\Windows\\system32:
+C:\\Windows\\system32\\drivers:</Value>
+  <Value name="TB_CS_12">C:\\Windows\\system32\\config:</Value>
+  <Value name="TB_CS_13">C:\\Windows\\repair:</Value>
+  <Value name="TB_CS_14_NTFS">C:\\Instaladores ICG:
+C:\\Windows\\system32\\spool\\drivers:
+C:\\PwCWinAudit - 1.6.0:
+E:\\Attachments:
+E:\\Backup_Eforms_DB:
+F:\\Backup_LNP_DB:
+C:\\copiar_WS:
+E:\\DBMigra:
+C:\\CCS\\errores:
+F:\\PRO_FILES:
+F:\\RETIROS_SKY:
+C:\\Servicios:
+E:\\Tab:
+C:\\Users:
+C:\\inetpub\\wwwroot:
+C:\\VHUR:
+C:\\VHUR_ELS:
+C:\\Windows:
+C:\\:</Value>
+  <Value name="TB_CS_Network">C:\\Instaladores ICG
+C:\\Windows\\system32\\spool\\drivers
+C:\\PwCWinAudit - 1.6.0
+E:\\Attachments
+E:\\Backup_Eforms_DB
+F:\\Backup_LNP_DB
+C:\\copiar_WS
+E:\\DBMigra
+C:\\CCS\\errores
+F:\\PRO_FILES
+F:\\RETIROS_SKY
+C:\\Servicios
+E:\\Tab
+C:\\Users
+C:\\inetpub\\wwwroot
+C:\\VHUR
+C:\\VHUR_ELS
+C:\\Windows
+C:\\</Value>
+  <Value name="TB_CS_18">8</Value>
+  <Value name="TB_CS_19">1</Value>
+  <Value name="TB_CS_20">90</Value>
+  <Value name="TB_CS_21">1</Value>
+  <Value name="TB_CS_23_duration_lbl">Account lockout duration</Value>
+  <Value name="TB_CS_23_duration_policy">0</Value>
+  <Value name="TB_CS_23_threshold_lbl">Account lockout threshold</Value>
+  <Value name="TB_CS_23_threshold_policy">3</Value>
+  <Value name="TB_CS_23_reset_lbl">Reset account lockout after</Value>
+  <Value name="TB_CS_23_reset_policy">99999</Value>
+  <Value name="TB_CS_25">%m/%d/%Y</Value>
+  <Value name="CB_Controls_08">False</Value>
+  <Value name="TB_Documentation_08" />
+  <Value name="CB_Exception_08">False</Value>
+  <Value name="CB_Controls_29">True</Value>
+  <Value name="TB_Documentation_29"><![CDATA[Los protocolos de red en este servidor son requeridos para su correcto funcionamiento. ]]></Value>
+  <Value name="CB_Exception_29">False</Value>
+  <Value name="CB_Controls_34">False</Value>
+  <Value name="TB_Documentation_34" />
+  <Value name="CB_Exception_34">False</Value>
+</WizardValues>

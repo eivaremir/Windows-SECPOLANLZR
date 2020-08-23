@@ -1,0 +1,396 @@
+KeyName,KeyExists,ValueName,Data
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,ActiveWndTrackTimeout,0
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,BlockSendInputResets,0
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,CaretWidth,1
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,ClickLockTime,1200
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,CoolSwitchColumns,7
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,CoolSwitchRows,3
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,CursorBlinkRate,530
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,DockMoving,1
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,DragFromMaximize,1
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,DragFullWindows,0
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,DragHeight,4
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,DragWidth,4
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,FocusBorderHeight,1
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,FocusBorderWidth,1
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,FontSmoothing,2
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,FontSmoothingGamma,0
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,FontSmoothingOrientation,1
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,FontSmoothingType,2
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,ForegroundFlashCount,7
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,ForegroundLockTimeout,200000
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,LeftOverlapChars,3
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,MenuShowDelay,400
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,MouseWheelRouting,2
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,PaintDesktopVersion,0
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,Pattern,0
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,RightOverlapChars,3
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,SnapSizing,1
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,TileWallpaper,0
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,WallPaper,C:\Windows\web\wallpaper\Windows\img0.jpg
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,WallpaperOriginX,0
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,WallpaperOriginY,0
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,WallpaperStyle,10
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,WheelScrollChars,3
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,WheelScrollLines,3
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,WindowArrangementActive,1
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,ScreenSaveActive,1
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,Win8DpiScaling,0
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,DpiScalingVer,4096
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,UserPreferencesMask,144 18 3 128 16 0 0 0
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,MaxVirtualDesktopDimension,3286
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,MaxMonitorDimension,1920
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,TranscodedImageCount,1
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,LastUpdated,-1
+HKEY_CURRENT_USER\Control Panel\Desktop,Exists,TranscodedImageCache,122 195 1 0 144 202 1 0 86 5 0 0 0 3 0 0 2 108 178 175 100 223 209 1 67 0 58 0 92 0 87 0 105 0 110 0 100 0 111 0 119 0 115 0 92 0 119 0 101 0 98 0 92 0 119 0 97 0 108 0 108 0 112 0 97 0 112 0 101 0 114 0 92 0 87 0 105 0 110 0 100 0 111 0 119 0 115 0 92 0 105 0 109 0 103 0 48 0 46 0 106 0 112 0 103 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Driver Signing,Exists,Policy,0
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\OLE,Exists,DefaultLaunchPermission,1 0 4 128 92 0 0 0 108 0 0 0 0 0 0 0 20 0 0 0 2 0 72 0 3 0 0 0 0 0 24 0 31 0 0 0 1 2 0 0 0 0 0 5 32 0 0 0 32 2 0 0 0 0 20 0 31 0 0 0 1 1 0 0 0 0 0 5 4 0 0 0 0 0 20 0 31 0 0 0 1 1 0 0 0 0 0 5 18 0 0 0 1 2 0 0 0 0 0 5 32 0 0 0 32 2 0 0 1 2 0 0 0 0 0 5 32 0 0 0 32 2 0 0
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\OLE,Exists,EnableDCOM,Y
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\OLE,Exists,LegacyImpersonationLevel,2
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\OLE,Exists,MachineAccessRestriction,1 0 4 128 140 0 0 0 156 0 0 0 0 0 0 0 20 0 0 0 2 0 120 0 5 0 0 0 0 0 20 0 7 0 0 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 20 0 7 0 0 0 1 1 0 0 0 0 0 5 7 0 0 0 0 0 24 0 7 0 0 0 1 2 0 0 0 0 0 5 32 0 0 0 50 2 0 0 0 0 24 0 7 0 0 0 1 2 0 0 0 0 0 5 32 0 0 0 47 2 0 0 0 0 24 0 3 0 0 0 1 2 0 0 0 0 0 15 2 0 0 0 1 0 0 0 1 2 0 0 0 0 0 5 32 0 0 0 32 2 0 0 1 2 0 0 0 0 0 5 32 0 0 0 32 2 0 0
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\OLE,Exists,MachineLaunchRestriction,1 0 4 128 144 0 0 0 160 0 0 0 0 0 0 0 20 0 0 0 2 0 124 0 5 0 0 0 0 0 24 0 31 0 0 0 1 2 0 0 0 0 0 5 32 0 0 0 32 2 0 0 0 0 20 0 11 0 0 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 24 0 31 0 0 0 1 2 0 0 0 0 0 5 32 0 0 0 50 2 0 0 0 0 24 0 31 0 0 0 1 2 0 0 0 0 0 5 32 0 0 0 47 2 0 0 0 0 24 0 11 0 0 0 1 2 0 0 0 0 0 15 2 0 0 0 1 0 0 0 1 2 0 0 0 0 0 5 32 0 0 0 32 2 0 0 1 2 0 0 0 0 0 5 32 0 0 0 32 2 0 0
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\OS/2 Subsystem for NT,Does Not Exist,NULL,NULL
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\OS/2 Subsystem for NT\1.0,Does Not Exist,NULL,NULL
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\OS/2 Subsystem for NT\1.0\config.sys,Does Not Exist,NULL,NULL
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\TelnetServer,Does Not Exist,NULL,NULL
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System,Exists,ConsentPromptBehaviorAdmin,4
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System,Exists,ConsentPromptBehaviorUser,3
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System,Exists,DelayedDesktopSwitchTimeout,0
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System,Exists,DisableAutomaticRestartSignOn,1
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System,Exists,DSCAutomationHostEnabled,2
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System,Exists,EnableCursorSuppression,1
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System,Exists,EnableInstallerDetection,1
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System,Exists,EnableLUA,1
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System,Exists,EnableSecureUIAPaths,1
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System,Exists,EnableUIADesktopToggle,0
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System,Exists,EnableVirtualization,1
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System,Exists,PromptOnSecureDesktop,1
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System,Exists,ValidateAdminCodeSignatures,0
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System,Exists,disablecad,0
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System,Exists,dontdisplaylastusername,0
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System,Exists,legalnoticecaption,""
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System,Exists,legalnoticetext,""
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System,Exists,scforceoption,0
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System,Exists,shutdownwithoutlogon,0
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System,Exists,undockwithoutlogon,1
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System,Exists,FilterAdministratorToken,1
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System,Exists,inactivitytimeoutsecs,300
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run,Exists,VMware User Process,"""C:\Program Files\VMware\VMware Tools\vmtoolsd.exe"" -n vmusr"
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run,Exists,BackLogo,C:\Support\Wallpaper\Bginfo.exe /iC:\Support\Wallpaper\Banistmosrv.bgi /NOLICPROMPT /timer:0
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnceEx,Does Not Exist,NULL,NULL
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Setup\RecoveryConsole,Exists,securitylevel,0
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Setup\RecoveryConsole,Exists,setcommand,0
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon,Exists,AutoRestartShell,1
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon,Exists,Background,0 0 0
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon,Exists,CachedLogonsCount,10
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon,Exists,DebugServerCommand,no
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon,Exists,DisableBackButton,1
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon,Exists,EnableSIHostIntegration,1
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon,Exists,ForceUnlockLogon,0
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon,Exists,LegalNoticeCaption,""
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon,Exists,LegalNoticeText,""
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon,Exists,PasswordExpiryWarning,5
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon,Exists,PowerdownAfterShutdown,0
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon,Exists,PreCreateKnownFolders,{A520A1A4-1780-4FF6-BD18-167343C5AF16}
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon,Exists,ReportBootOk,1
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon,Exists,Shell,explorer.exe
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon,Exists,ShellCritical,0
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon,Exists,ShellInfrastructure,sihost.exe
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon,Exists,SiHostCritical,0
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon,Exists,SiHostReadyTimeOut,0
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon,Exists,SiHostRestartCountLimit,0
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon,Exists,SiHostRestartTimeGap,0
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon,Exists,Userinit,"C:\Windows\system32\userinit.exe,"
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon,Exists,VMApplet,SystemPropertiesPerformance.exe /pagefile
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon,Exists,WinStationsDisabled,0
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon,Exists,scremoveoption,0
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon,Exists,DisableCAD,1
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon,Exists,ShutdownFlags,167
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon,Exists,DisableLockWorkstation,0
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon,Exists,DefaultDomainName,BANISTMO
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon,Exists,allocatefloppies,1
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\Terminal Services,Does Not Exist,NULL,NULL
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Messenger\Client,Does Not Exist,NULL,NULL
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\PCHealth\ErrorReporting\DW,Does Not Exist,NULL,NULL
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\PCHealth\ErrorReporting,Does Not Exist,NULL,NULL
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows NT\DNSClient,Does Not Exist,NULL,NULL
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows NT\Network Connections,Does Not Exist,NULL,NULL
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows NT\Terminal Services,Exists,fDenyTSConnections,0
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows NT\Terminal Services,Exists,UserAuthentication,1
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows NT\Terminal Services,Exists,fAllowToGetHelp,1
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows NT\Terminal Services,Exists,fAllowUnsolicited,1
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows NT\Terminal Services,Exists,fAllowUnsolicitedFullControl,1
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows NT\Terminal Services,Exists,MaxDisconnectionTime,1800000
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Safer\CodeIdentifiers,Exists,authenticodeenabled,0
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System,Exists,UserPolicyMode,2
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSYSTEM,Exists,DisableDeleteNotification,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSYSTEM,Exists,FilterSupportedFeaturesMode,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSYSTEM,Exists,LongPathsEnabled,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSYSTEM,Exists,NtfsAllowExtendedCharacter8dot3Rename,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSYSTEM,Exists,NtfsBugcheckOnCorrupt,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSYSTEM,Exists,NtfsDisable8dot3NameCreation,2
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSYSTEM,Exists,NtfsDisableCompression,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSYSTEM,Exists,NtfsDisableEncryption,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSYSTEM,Exists,NtfsDisableLastAccessUpdate,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSYSTEM,Exists,NtfsDisableLfsDowngrade,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSYSTEM,Exists,NtfsDisableVolsnapHints,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSYSTEM,Exists,NtfsEncryptPagingFile,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSYSTEM,Exists,NtfsMemoryUsage,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSYSTEM,Exists,NtfsMftZoneReservation,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSYSTEM,Exists,NtfsQuotaNotifyRate,3600
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSYSTEM,Exists,RefsDisableLastAccessUpdate,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSYSTEM,Exists,ScrubMode,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSYSTEM,Exists,SymlinkLocalToLocalEvaluation,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSYSTEM,Exists,SymlinkLocalToRemoteEvaluation,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSYSTEM,Exists,SymlinkRemoteToLocalEvaluation,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSYSTEM,Exists,SymlinkRemoteToRemoteEvaluation,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSYSTEM,Exists,UdfsCloseSessionOnEject,3
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSYSTEM,Exists,UdfsSoftwareDefectManagement,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSYSTEM,Exists,Win31FileSystem,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSYSTEM,Exists,Win95TruncatedExtensions,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\LSA,Exists,auditbasedirectories,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\LSA,Exists,auditbaseobjects,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\LSA,Exists,Bounds,0 48 0 0 0 32 0 0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\LSA,Exists,crashonauditfail,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\LSA,Exists,fullprivilegeauditing,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\LSA,Exists,LimitBlankPasswordUse,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\LSA,Exists,NoLmHash,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\LSA,Exists,Security Packages,""""""
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\LSA,Exists,Notification Packages,rassfm scecli
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\LSA,Exists,Authentication Packages,msv1_0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\LSA,Exists,LsaPid,728
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\LSA,Exists,SecureBoot,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\LSA,Exists,ProductType,7
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\LSA,Exists,disabledomaincreds,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\LSA,Exists,everyoneincludesanonymous,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\LSA,Exists,forceguest,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\LSA,Exists,restrictanonymous,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\LSA,Exists,restrictanonymoussam,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\LSA,Exists,lmcompatibilitylevel,5
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\LSA,Exists,scenoapplylegacyauditpolicy,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\LSA,Exists,submitcontrol,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\LSA,Exists,RunAsPP,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\LSA\MSV1_0,Exists,Auth132,IISSUBA
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\LSA\MSV1_0,Exists,Auth2,RASSFM
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\LSA\MSV1_0,Exists,NtlmMinClientSec,536870912
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\LSA\MSV1_0,Exists,NtlmMinServerSec,536870912
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Print\Providers\LanMan Print Services\Servers,Exists,AddPrinterDrivers,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\SecurePipeServers\winreg,Exists,Description,Registry Server
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\SecurePipeServers\winreg\AllowedPaths,Exists,Machine,System\CurrentControlSet\Control\Print\Printers System\CurrentControlSet\Services\Eventlog Software\Microsoft\OLAP Server Software\Microsoft\Windows NT\CurrentVersion\Print Software\Microsoft\Windows NT\CurrentVersion\Windows System\CurrentControlSet\Control\ContentIndex System\CurrentControlSet\Control\Terminal Server System\CurrentControlSet\Control\Terminal Server\UserConfig System\CurrentControlSet\Control\Terminal Server\DefaultUserConfiguration Software\Microsoft\Windows NT\CurrentVersion\Perflib System\CurrentControlSet\Services\SysmonLog
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\SecurePipeServers\winreg\AllowedExactPaths,Exists,Machine,System\CurrentControlSet\Control\ProductOptions System\CurrentControlSet\Control\Server Applications Software\Microsoft\Windows NT\CurrentVersion
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager,Exists,AutoChkTimeout,10
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager,Exists,BootExecute,autocheck autochk /q /v *
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager,Exists,BootShell,C:\Windows\system32\bootim.exe
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager,Exists,CriticalSectionTimeout,2592000
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager,Exists,ExcludeFromKnownDlls,""
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager,Exists,GlobalFlag,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager,Exists,HeapDeCommitFreeBlockThreshold,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager,Exists,HeapDeCommitTotalFreeThreshold,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager,Exists,HeapSegmentCommit,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager,Exists,HeapSegmentReserve,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager,Exists,InitConsoleFlags,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager,Exists,NumberOfInitialSessions,2
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager,Exists,ObjectDirectories,\Windows \RPC Control
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager,Exists,ProcessorControl,2
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager,Exists,ProtectionMode,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager,Exists,ResourceTimeoutCount,648000
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager,Exists,RunLevelExecute,WinInit ServiceControlManager
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager,Exists,RunLevelValidate,ServiceControlManager
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager,Exists,SETUPEXECUTE,""
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager,Exists,PendingFileRenameOperations,\??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\Windows\system32\spool\V4Dirs\DDF8B207-C666-4D9E-9D03-3623DC3064C8\69b8a4a.BUD  \??\C:\Windows\system32\spool\V4Dirs\DDF8B207-C666-4D9E-9D03-3623DC3064C8\69b8a4a.gpd  \??\C:\Windows\system32\spool\V4Dirs\DDF8B207-C666-4D9E-9D03-3623DC3064C8\pdc.xml  \??\C:\Windows\system32\spool\V4Dirs\DDF8B207-C666-4D9E-9D03-3623DC3064C8  \??\C:\Windows\system32\spool\V4Dirs\83166CD1-1E63-4801-A410-E55FF18D8374\9a072afe.BUD  \??\C:\Windows\system32\spool\V4Dirs\83166CD1-1E63-4801-A410-E55FF18D8374\9a072afe.gpd  \??\C:\Windows\system32\spool\V4Dirs\83166CD1-1E63-4801-A410-E55FF18D8374  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\Windows\system32\spool\V4Dirs\A34F38E2-CED2-4228-BF11-6D6745A1DF31\69b8a4a.BUD  \??\C:\Windows\system32\spool\V4Dirs\A34F38E2-CED2-4228-BF11-6D6745A1DF31\69b8a4a.gpd  \??\C:\Windows\system32\spool\V4Dirs\A34F38E2-CED2-4228-BF11-6D6745A1DF31\pdc.xml  \??\C:\Windows\system32\spool\V4Dirs\A34F38E2-CED2-4228-BF11-6D6745A1DF31  \??\C:\Windows\system32\spool\V4Dirs\6058E07F-3581-41A9-8D58-BAD1712FC371\9a072afe.BUD  \??\C:\Windows\system32\spool\V4Dirs\6058E07F-3581-41A9-8D58-BAD1712FC371\9a072afe.gpd  \??\C:\Windows\system32\spool\V4Dirs\6058E07F-3581-41A9-8D58-BAD1712FC371  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\ProgramData\Symantec\Symantec Endpoint Protection\14.0.2415.0200.105\Data\Definitions\SRTSPSettingsDefs  \??\C:\Windows\system32\spool\V4Dirs\A33E6BB2-D888-4538-8C50-594265F94A09\69b8a4a.BUD  \??\C:\Windows\system32\spool\V4Dirs\A33E6BB2-D888-4538-8C50-594265F94A09\69b8a4a.gpd  \??\C:\Windows\system32\spool\V4Dirs\A33E6BB2-D888-4538-8C50-594265F94A09
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Kernel,Exists,DisableExceptionChainValidation,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Kernel,Exists,MaximumSharedReadyQueueSize,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Kernel,Exists,ObUnsecureGlobalNames,netfxcustomperfcounters.1.0 SharedPerfIPCBlock Cor_Private_IPCBlock Cor_Public_IPCBlock_
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Kernel,Exists,SerializeTimerExpiration,2
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Kernel,Exists,SeTokenSingletonAttributesConfig,3
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Kernel,Exists,DpcWatchdogProfileOffset,10000
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Kernel,Exists,obcaseinsensitive,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management,Exists,ClearPageFileAtShutdown,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management,Exists,DisablePagingExecutive,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management,Exists,LargeSystemCache,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management,Exists,NonPagedPoolQuota,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management,Exists,NonPagedPoolSize,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management,Exists,PagedPoolQuota,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management,Exists,PagedPoolSize,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management,Exists,PagingFiles,?:\pagefile.sys
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management,Exists,SecondLevelDataCache,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management,Exists,SessionPoolSize,4
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management,Exists,SessionViewSize,48
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management,Exists,SystemPages,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management,Exists,PhysicalAddressExtension,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management,Exists,PagefileUsage,88 26 0 0 175 220 1 0 112 222 1 0 69 221 1 0 52 222 1 0 26 221 1 0 140 220 1 0 28 223 1 0 243 220 1 0 212 220 1 0 220 224 1 0 120 227 1 0 92 220 1 0 255 220 1 0 72 222 1 0 89 222 1 0 187 243 1 0 76 0 2 0 183 234 1 0 115 230 1 0 38 228 1 0 176 231 1 0 55 228 1 0 124 228 1 0 230 232 1 0 92 247 0 0 13 247 0 0 33 247 0 0 162 9 1 0 164 7 1 0 54 15 1 0 91 16 1 0 181 12 1 0 36 16 1 0 67 14 1 0 195 15 1 0 108 15 1 0 57 19 1 0 94 38 1 0 32 18 1 0 213 19 1 0 211 17 1 0 123 14 1 0 152 37 1 0 43 46 1 0 38 46 1 0 99 31 1 0 187 35 1 0 104 33 1 0 140 35 1 0 129 53 1 0 29 66 1 0 205 70 1 0 48 94 1 0 153 96 1 0 152 99 1 0 210 97 1 0 193 96 1 0 94 100 1 0 45 102 1 0 136 99 1 0 240 102 1 0 9 102 1 0 21 108 1 0 150 120 1 0 143 147 1 0 28 146 1 0 77 190 1 0 169 188 1 0 104 27 2 0 11 190 1 0 101 219 1 0 214 246 1 0 35 243 1 0 141 243 1 0 162 244 1 0 57 243 1 0 243 246 1 0 90 185 1 0 55 192 1 0 208 190 1 0 44 190 1 0 228 194 1 0 91 196 1 0 11 210 1 0 170 212 1 0 101 211 1 0 233 207 1 0 161 210 1 0 22 209 1 0 19 229 1 0 126 216 1 0 24 217 1 0 216 217 1 0 154 217 1 0 232 219 1 0 163 222 1 0 27 224 1 0 189 224 1 0 151 9 2 0 249 10 2 0 199 225 1 0 175 220 1 0 50 224 1 0 55 230 1 0 72 232 1 0 28 236 1 0 192 235 1 0 31 226 1 0 137 230 1 0 71 235 1 0 242 232 1 0 32 231 1 0 29 239 1 0 34 226 1 0 237 229 1 0 160 238 1 0 169 231 1 0 152 245 1 0 251 240 1 0 159 245 1 0 68 244 1 0 161 244 1 0 127 244 1 0 57 244 1 0 168 242 1 0 35 245 1 0 103 146 1 0 25 157 1 0 185 152 1 0 161 160 1 0 183 165 1 0 207 164 1 0 46 169 1 0 28 161 1 0 102 165 1 0 236 161 1 0 162 163 1 0 103 162 1 0 39 11 2 0 204 156 1 0 121 162 1 0 231 161 1 0 106 191 1 0 242 179 1 0 221 192 1 0 70 194 1 0 153 184 1 0 132 185 1 0 14 185 1 0 8 193 1 0 234 188 1 0 87 194 1 0 23 191 1 0 196 190 1 0 215 201 1 0 120 193 1 0 70 193 1 0 2 196 1 0 139 194 1 0 200 194 1 0 98 190 1 0 141 187 1 0 237 187 1 0 89 193 1 0 193 190 1 0 125 190 1 0 161 189 1 0 251 185 1 0 136 191 1 0 120 189 1 0 95 183 1 0 186 184 1 0 5 195 1 0 151 191 1 0 37 196 1 0 179 210 1 0 24 194 1 0 244 193 1 0 172 246 1 0 255 18 2 0 37 22 2 0 220 17 2 0 103 16 2 0 200 18 2 0 50 16 2 0 221 201 1 0 164 198 1 0 65 198 1 0 182 200 1 0 67 205 1 0 74 198 1 0 88 197 1 0 143 198 1 0 118 196 1 0 95 197 1 0 208 217 1 0 119 218 1 0 39 205 1 0 11 190 1 0 241 190 1 0 143 190 1 0 150 212 1 0 93 212 1 0 207 214 1 0 12 211 1 0 183 209 1 0 30 212 1 0 183 208 1 0 59 205 1 0 232 204 1 0 139 232 1 0 22 221 1 0 91 247 1 0 119 250 1 0 53 206 1 0 242 212 1 0 87 228 1 0 40 203 1 0 189 205 1 0 215 197 1 0 29 202 1 0 84 206 1 0 162 207 1 0 17 214 1 0 234 205 1 0 65 199 1 0 141 207 1 0 4 203 1 0 48 206 1 0 201 217 1 0 223 202 1 0 210 203 1 0 32 216 1 0 161 212 1 0 186 210 1 0 22 215 1 0 115 216 1 0 209 215 1 0 174 215 1 0 102 223 1 0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management,Exists,FeatureSettings,3
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management,Exists,da56a5e4-287c-4a5b-86da-140a12d814cd,4
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management,Exists,ExistingPageFiles,\??\C:\pagefile.sys
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\SubSystems,Exists,Debug,""
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\SubSystems,Exists,Kmode,\SystemRoot\System32\win32k.sys
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\SubSystems,Exists,Optional,""
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\SubSystems,Exists,Required,Debug Windows
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\SubSystems,Exists,Windows,"C:\Windows\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16"
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server,Exists,AllowRemoteRPC,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server,Exists,DelayConMgrTimeout,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server,Exists,DeleteTempDirsOnExit,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server,Exists,fDenyTSConnections,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server,Exists,fSingleSessionPerUser,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server,Exists,NotificationTimeOut,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server,Exists,PerSessionTempDir,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server,Exists,ProductVersion,5.1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server,Exists,RCDependentServices,CertPropSvc SessionEnv
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server,Exists,RDPVGCInstalled,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server,Exists,SessionDirectoryActive,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server,Exists,SessionDirectoryCLSID,{005a9c68-e216-4b27-8f59-b336829b3868}
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server,Exists,SessionDirectoryExCLSID,{ec98d957-48ad-436d-90be-bc291f42709c}
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server,Exists,SessionDirectoryExposeServerIP,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server,Exists,SnapshotMonitors,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server,Exists,StartRCM,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server,Exists,TSUserEnabled,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server,Exists,InstanceID,54dc9e78-3174-4578-b7da-64e6e35
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server,Exists,GlassSessionId,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,AudioEnumeratorDll,rdpendp.dll
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,Callback,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,CallbackNumber,""
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,CdClass,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,CdDLL,""
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,CdFlag,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,CdName,""
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,CfgDll,RDPCFGEX.DLL
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,ColorDepth,3
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,Comment,""
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,Domain,""
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,DrawGdiplusSupportLevel,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,fAllowSecProtocolNegotiation,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,fAutoClientDrives,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,fAutoClientLpts,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,fDisableAudioCapture,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,fDisableCam,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,fDisableCcm,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,fDisableCdm,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,fDisableClip,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,fDisableCpm,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,fDisableEncryption,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,fDisableExe,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,fDisableLPT,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,fEnableWinStation,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,fForceClientLptDef,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,fHomeDirectoryMapRoot,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,fInheritAutoClient,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,fInheritAutoLogon,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,fInheritCallback,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,fInheritCallbackNumber,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,fInheritColorDepth,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,fInheritInitialProgram,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,fInheritMaxDisconnectionTime,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,fInheritMaxIdleTime,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,fInheritMaxSessionTime,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,fInheritReconnectSame,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,fInheritResetBroken,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,fInheritSecurity,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,fInheritShadow,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,fLogonDisabled,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,fPromptForPassword,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,fReconnectSame,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,fResetBroken,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,fUseDefaultGina,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,InitialProgram,""
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,InputBufferLength,2048
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,InteractiveDelay,50
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,KeepAliveTimeout,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,KeyboardLayout,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,LanAdapter,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,LoadableProtocol_Object,{5828227c-20cf-4408-b73f-73ab70b8849f}
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,MaxConnectionTime,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,MaxDisconnectionTime,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,MaxIdleTime,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,MaxInstanceCount,-1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,MinEncryptionLevel,3
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,NWLogonServer,""
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,OutBufCount,6
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,OutBufDelay,100
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,OutBufLength,530
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,Password,""
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,PdClass,2
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,PdClass1,11
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,PdDLL,tdtcp
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,PdDLL1,tssecsrv
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,PdFlag,78
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,PdFlag1,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,PdName,tcp
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,PdName1,tssecsrv
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,PortNumber,3389
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,SecurityLayer,2
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,SelectNetworkDetect,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,SelectTransport,2
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,Shadow,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,UserAuthentication,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,Username,""
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,WdFlag,54
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,WdName,Microsoft RDP 8.0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,WdPrefix,RDP
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,WFProfilePath,""
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,WorkDirectory,""
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,Security,1 0 20 128 228 0 0 0 240 0 0 0 20 0 0 0 48 0 0 0 2 0 28 0 1 0 0 0 2 128 20 0 33 1 0 0 1 1 0 0 0 0 0 1 0 0 0 0 2 0 180 0 7 0 0 0 0 0 20 0 1 0 0 0 1 1 0 0 0 0 0 5 4 0 0 0 0 0 20 0 191 3 15 0 1 1 0 0 0 0 0 5 18 0 0 0 0 0 20 0 137 0 15 0 1 1 0 0 0 0 0 5 19 0 0 0 0 0 20 0 129 0 0 0 1 1 0 0 0 0 0 5 20 0 0 0 0 0 24 0 191 3 15 0 1 2 0 0 0 0 0 5 32 0 0 0 32 2 0 0 0 0 24 0 33 1 0 0 1 2 0 0 0 0 0 5 32 0 0 0 43 2 0 0 0 0 36 0 255 3 15 0 1 5 0 0 0 0 0 5 21 0 0 0 4 174 116 136 22 238 94 112 205 152 254 246 103 123 0 0 48 0 55 0 34 0 59 0 1 1 0 0 0 0 0 5 18 0 0 0 1 1 0 0 0 0 0 5 18 0 0 0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Exists,SYSTEM\CurrentControSecurity,2
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\LSA,Does Not Exist,NULL,NULL
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanManServer\Parameters,Exists,EnableAuthenticateUserSharing,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanManServer\Parameters,Exists,ServiceDll,C:\Windows\system32\srvsvc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanManServer\Parameters,Exists,ServiceDllUnloadOnStop,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanManServer\Parameters,Exists,autodisconnect,15
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanManServer\Parameters,Exists,enableforcedlogoff,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanManServer\Parameters,Exists,enablesecuritysignature,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanManServer\Parameters,Exists,requiresecuritysignature,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanManServer\Parameters,Exists,restrictnullsessaccess,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanManServer\Parameters,Exists,srvcomment,Controladora de Dominio Kio
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanManServer\Parameters,Exists,CachedOpenLimit,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanManServer\Parameters,Exists,Guid,37 201 216 136 58 26 100 78 156 53 206 94 194 200 127 184
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanWorkstation\Parameters,Exists,EnablePlainTextPassword,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanWorkstation\Parameters,Exists,EnableSecuritySignature,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanWorkstation\Parameters,Exists,RequireSecuritySignature,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanWorkstation\Parameters,Exists,ServiceDll,C:\Windows\System32\wkssvc.dll
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanWorkstation\Parameters,Exists,ServiceDllUnloadOnStop,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LDAP,Exists,ldapclientintegrity,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Netlogon\Parameters,Exists,DisablePasswordChange,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Netlogon\Parameters,Exists,MaximumPasswordAge,30
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Netlogon\Parameters,Exists,RequireSignOrSeal,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Netlogon\Parameters,Exists,RequireStrongKey,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Netlogon\Parameters,Exists,SealSecureChannel,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Netlogon\Parameters,Exists,ServiceDll,C:\Windows\system32\netlogon.dll
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Netlogon\Parameters,Exists,SignSecureChannel,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Netlogon\Parameters,Exists,Update,no
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Netlogon\Parameters,Exists,DynamicSiteName,Edison
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Netlogon\Parameters,Exists,SysvolReady,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Netlogon\Parameters,Exists,SysVol,E:\AD\SYSVOL\sysvol
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\SimpTcp,Does Not Exist,NULL,NULL
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\SimpTcp\Parameters,Does Not Exist,NULL,NULL
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\SNMP,Does Not Exist,NULL,NULL
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\SNMP\Parameters,Does Not Exist,NULL,NULL
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\SNMP\Parameters\ValidCommunities,Does Not Exist,NULL,NULL
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\SNMP\Parameters\PermittedManagers,Does Not Exist,NULL,NULL
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\TlntSvr,Does Not Exist,NULL,NULL
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\EventLog\Directory Service,Exists,Isolation,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\EventLog\Directory Service,Exists,MaxSize,512
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\EventLog\Directory Service,Exists,Retention,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\EventLog\DNS Server,Exists,CustomSD,O:BAG:SYD:(A;;0xf0007;;;SY)(A;;0x7;;;BA)(A;;0x5;;;SO)(A;;0x1;;;IU)(A;;0x1;;;SU)(A;;0x1;;;S-1-5-3)(A;;0x2;;;LS)(A;;0x2;;;NS)(A;;0x2;;;S-1-5-33)
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\EventLog\DNS Server,Exists,MaxSize,102400
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\EventLog\DNS Server,Exists,Retention,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\EventLog\File Replication Service,Does Not Exist,NULL,NULL
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NTDS\Parameters,Exists,Src Srv objectGuid,228 186 227 233 117 94 132 65 153 41 226 105 7 129 8 53
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NTDS\Parameters,Exists,System Schema Version,87
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NTDS\Parameters,Exists,Root Domain,"DC=banistmo,DC=corp"
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NTDS\Parameters,Exists,Configuration NC,"CN=Configuration,DC=banistmo,DC=corp"
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NTDS\Parameters,Exists,Machine DN Name,"CN=NTDS Settings,CN=PAPROWDC0002,CN=Servers,CN=KIO-PDC,CN=Sites,CN=Configuration,DC=banistmo,DC=corp"
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NTDS\Parameters,Exists,Src Root Domain Srv,PAPROWDC0010.banistmo.corp
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NTDS\Parameters,Exists,DsaOptions,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NTDS\Parameters,Exists,IsClone,0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NTDS\Parameters,Exists,ServiceDll,C:\Windows\system32\ntdsa.dll
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NTDS\Parameters,Exists,DSA Working Directory,E:\AD\NTDS
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NTDS\Parameters,Exists,DSA Database file,E:\AD\NTDS\ntds.dit
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NTDS\Parameters,Exists,Database backup path,E:\AD\NTDS\dsadata.bak
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NTDS\Parameters,Exists,Database log files path,d:\AD\NTDS
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NTDS\Parameters,Exists,Hierarchy Table Recalculation interval (minutes),720
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NTDS\Parameters,Exists,Database logging/recovery,ON
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NTDS\Parameters,Exists,DS Drive Mappings,d:\=\\?\Volume{a826cab5-0000-0000-0000-100000000000}\ e:\=\\?\Volume{a826cab4-0000-0000-0000-100000000000}\
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NTDS\Parameters,Exists,DSA Database Epoch,4698
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NTDS\Parameters,Exists,Strict Replication Consistency,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NTDS\Parameters,Exists,Schema Version,87
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NTDS\Parameters,Exists,ldapserverintegrity,1
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NTDS\Parameters,Exists,Global Catalog Promotion Complete,1

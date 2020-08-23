@@ -1,0 +1,6 @@
+Path,Trustee,ACE Type,Permissions
+E:\AD\SYSVOL\sysvol\banistmo.corp\SCRIPTS,\Everyone,Allow,Read
+E:\AD\SYSVOL\sysvol\banistmo.corp\SCRIPTS,BUILTIN\Administrators,Allow,Full Conrol
+E:\AD\SYSVOL\sysvol,\Everyone,Allow,Read
+E:\AD\SYSVOL\sysvol,BUILTIN\Administrators,Allow,Full Conrol
+E:\AD\SYSVOL\sysvol,NT AUTHORITY\Authenticated Users,Allow,Full Conrol

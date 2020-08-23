@@ -1,0 +1,4 @@
+Policy	Database Setting	Computer Setting
+Account lockout duration	0	30 minutes
+Account lockout threshold	3 invalid logon attempts	10 invalid logon attempts
+Reset account lockout counter after	60 minutes	15 minutes

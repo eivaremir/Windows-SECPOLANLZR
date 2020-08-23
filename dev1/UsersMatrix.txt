@@ -1,0 +1,18 @@
+User|Description|Exception
+NETWORK SERVICE|Windows Service|false
+LOCAL SERVICE|Windows Service|false
+No User|No user|false
+\CREATOR OWNER|Default Windows User|false
+BUILTIN\Administrators|Default Windows Group|false
+BUILTIN\Administradores|Default Windows Group|false
+Administrators|Default Windows Group|false
+NT AUTHORITY/INTERACTIVE|Default Windows User|false
+BUILTIN\Users|Default Windows User|false
+NT AUTHORITY/Authenticated Users|Default Windows Group false
+NT AUTHORITY\Authenticated Users|Default Windows Group|false
+NT AUTHORITY\SYSTEM|Default Windows User|false
+NT SERVICE\eventlog|Default Windows User|false
+NT SERVICE\TrustedInstaller|Default Windows User|false
+\Everyone|Everyone|true
+\|Reference to a deleted AD User or Group false
+WdiServiceHost|Windows Service|false

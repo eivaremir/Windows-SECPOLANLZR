@@ -1,0 +1,46 @@
+Policy	Database Setting	Computer Setting
+Access Credential Manager as a trusted caller	Not Defined	
+Access this computer from the network	Administrators,Authenticated Users,ENTERPRISE DOMAIN CONTROLLERS	ENTERPRISE DOMAIN CONTROLLERS,Pre-Windows 2000 Compatible Access,Administrators,Authenticated Users
+Act as part of the operating system		
+Add workstations to domain	Administrators	*S-1-5-21-2289348100-1885269526-4143880397-512
+Adjust memory quotas for a process	NETWORK SERVICE,LOCAL SERVICE,Administrators	
+Allow log on locally	Backup Operators,Administrators	Backup Operators,Print Operators,Server Operators,Account Operators,Administrators
+Allow log on through Remote Desktop Services		Administrators,*S-1-5-21-2289348100-1885269526-4143880397-31591
+Back up files and directories	Administrators,Backup Operators	Backup Operators,Server Operators,Administrators
+Bypass traverse checking	Authenticated Users	
+Change the system time	Administrators,LOCAL SERVICE	Server Operators,Administrators,LOCAL SERVICE
+Change the time zone	Not Defined	Server Operators,Administrators,LOCAL SERVICE
+Create a pagefile	Administrators	Administrators
+Create a token object		
+Create global objects	Administrators,SERVICE	SERVICE,Administrators,NETWORK SERVICE,LOCAL SERVICE
+Create permanent shared objects		
+Create symbolic links	Not Defined	Administrators
+Debug programs		Administrators
+Deny access to this computer from the network	Support_388945a0,Guests,ANONYMOUS LOGON	
+Deny log on as a batch job	Support_388945a0,Guests	
+Deny log on as a service		
+Deny log on locally	Support_388945a0,Guests	
+Deny log on through Remote Desktop Services	Everyone	ANONYMOUS LOGON,Guests
+Enable computer and user accounts to be trusted for delegation	Administrators	Administrators
+Force shutdown from a remote system	Administrators	Server Operators,Administrators
+Generate security audits	NETWORK SERVICE,LOCAL SERVICE	NETWORK SERVICE,LOCAL SERVICE
+Impersonate a client after authentication	SERVICE,Administrators	SERVICE,Administrators,NETWORK SERVICE,LOCAL SERVICE
+Increase a process working set	Not Defined	Users
+Increase scheduling priority	Administrators	Administrators
+Load and unload device drivers	Administrators	Print Operators,Administrators
+Lock pages in memory		
+Log on as a batch job		Performance Log Users,Backup Operators,Administrators
+Log on as a service	NETWORK SERVICE	*S-1-5-21-2289348100-1885269526-4143880397-15018
+Manage auditing and security log	Auditors	Administrators,*S-1-5-21-2289348100-1885269526-4143880397-25617
+Modify an object label	Not Defined	
+Modify firmware environment values	Administrators	Administrators
+Obtain an impersonation token for another user in the same session	Not Defined	Administrators
+Perform volume maintenance tasks	Administrators	Administrators
+Profile single process	Administrators	Administrators
+Profile system performance	Administrators	WdiServiceHost,Administrators
+Remove computer from docking station	Administrators	Administrators
+Replace a process level token	NETWORK SERVICE,LOCAL SERVICE	
+Restore files and directories	Administrators,Backup Operators	Backup Operators,Server Operators,Administrators
+Shut down the system	Administrators	Backup Operators,Print Operators,Server Operators,Administrators
+Synchronize directory service data	Not Defined	
+Take ownership of files or other objects	Administrators	Administrators

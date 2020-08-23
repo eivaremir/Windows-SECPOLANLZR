@@ -1,0 +1,313 @@
+File,Status,AD_Object,Permission_Type,Permission
+C:\Windows\regedit.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\regedit.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\regedit.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\regedit.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\regedit.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\regedit.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\arp.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\arp.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\arp.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\arp.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\arp.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\arp.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\at.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\at.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\at.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\at.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\at.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\at.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\attrib.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\attrib.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\attrib.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\attrib.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\attrib.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\attrib.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\auditpol.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\auditpol.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\auditpol.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\auditpol.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\auditpol.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\auditpol.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\cacls.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\cacls.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\cacls.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\cacls.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\cacls.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\cacls.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\cmd.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\cmd.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\cmd.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\cmd.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\cmd.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\cmd.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\cisvc.exe,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\clipsrv.exe,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\cmd.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\cmd.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\cmd.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\cmd.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\cmd.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\cmd.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\dcpromo.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\dcpromo.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\dcpromo.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\dcpromo.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\dcpromo.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\dcpromo.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\debug.exe,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\Dfssvc.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\Dfssvc.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\Dfssvc.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\Dfssvc.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\Dfssvc.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\Dfssvc.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\dmadmin.exe,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\edit.com,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\edlin.exe,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\eventcreate.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\eventcreate.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\eventcreate.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\eventcreate.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\eventcreate.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\eventcreate.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\eventtriggers.exe,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\faxsvc.exe,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\finger.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\finger.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\finger.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\finger.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\finger.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\finger.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\ftp.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\ftp.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\ftp.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\ftp.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\ftp.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\ftp.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\gpupdate.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\gpupdate.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\gpupdate.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\gpupdate.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\gpupdate.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\gpupdate.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\ipconfig.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\ipconfig.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\ipconfig.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\ipconfig.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\ipconfig.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\ipconfig.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\ismserv.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\ismserv.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\ismserv.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\ismserv.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\ismserv.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\ismserv.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\llssrv.exe,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\locator.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\locator.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\locator.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\locator.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\locator.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\locator.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\lsass.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\lsass.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\lsass.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\lsass.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\lsass.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\lsass.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\mnmsrvc.exe,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\msdtc.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\msdtc.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\msdtc.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\msdtc.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\msdtc.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\msdtc.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\msiexec.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\msiexec.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\msiexec.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\msiexec.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\msiexec.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\msiexec.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\MSTask.exe,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\nbtstat.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\nbtstat.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\nbtstat.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\nbtstat.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\nbtstat.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\nbtstat.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\net.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\net.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\net.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\net.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\net.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\net.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\net1.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\net1.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\net1.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\net1.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\net1.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\net1.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\netdde.exe,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\netsh.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\netsh.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\netsh.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\netsh.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\netsh.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\netsh.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\netstat.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\netstat.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\netstat.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\netstat.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\netstat.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\netstat.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\nslookup.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\nslookup.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\nslookup.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\nslookup.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\nslookup.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\nslookup.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\ntbackup.exe,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\ntfrs.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\ntfrs.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\ntfrs.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\ntfrs.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\ntfrs.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\ntfrs.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\os2.exe,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\os2srv.exe,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\os2ss.exe,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\ping.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\ping.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\ping.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\ping.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\ping.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\ping.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\posix.exe,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\psxdll.dll,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\psxss.exe,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\rcp.exe,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\reg.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\reg.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\reg.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\reg.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\reg.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\reg.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\regedt32.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\regedt32.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\regedt32.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\regedt32.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\regedt32.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\regedt32.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\regini.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\regini.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\regini.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\regini.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\regini.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\regini.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\regsvc.exe,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\regsvr32.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\regsvr32.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\regsvr32.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\regsvr32.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\regsvr32.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\regsvr32.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\rexec.exe,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\route.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\route.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\route.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\route.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\route.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\route.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\rsh.exe,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\rsvp.exe,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\runonce.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\runonce.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\runonce.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\runonce.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\runonce.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\runonce.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\sc.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\sc.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\sc.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\sc.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\sc.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\sc.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\SCardSvr.exe,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\secedit.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\secedit.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\secedit.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\secedit.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\secedit.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\secedit.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\services.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\services.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\services.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\services.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\services.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\services.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\smlogsvc.exe,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\snmp.exe,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\snmptrap.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\snmptrap.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\snmptrap.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\snmptrap.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\snmptrap.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\snmptrap.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\spoolsvce.exe,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\subst.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\subst.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\subst.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\subst.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\subst.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\subst.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\svchost.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\svchost.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\svchost.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\svchost.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\svchost.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\svchost.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\syskey.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\syskey.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\syskey.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\syskey.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\syskey.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\syskey.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\systeminfo.exe,File Exists,NT AUTHORITY\INTERACTIVE,Allowed:,Read & Execute
+C:\Windows\system32\systeminfo.exe,File Exists,NT AUTHORITY\SERVICE,Allowed:,Read & Execute
+C:\Windows\system32\systeminfo.exe,File Exists,NT AUTHORITY\BATCH,Allowed:,Read & Execute
+C:\Windows\system32\systeminfo.exe,File Exists,BUILTIN\Administrators,Allowed:,Full Control
+C:\Windows\system32\systeminfo.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Full Control
+C:\Windows\system32\systeminfo.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\telnet.exe,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\termsrv.exe,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\tftp.exe,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\tlntsvr.exe,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\tlntsess.exe,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\tlntadmn.exe,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\tlntsvrp.dll,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\tracert.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\tracert.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\tracert.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\tracert.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\tracert.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\tracert.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\ups.exe,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\UtilMan.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\UtilMan.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\UtilMan.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\UtilMan.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\UtilMan.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\UtilMan.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\xcopy.exe,File Exists,NT SERVICE\TrustedInstaller,Allowed:,Full Control
+C:\Windows\system32\xcopy.exe,File Exists,BUILTIN\Administrators,Allowed:,Read & Execute
+C:\Windows\system32\xcopy.exe,File Exists,NT AUTHORITY\SYSTEM,Allowed:,Read & Execute
+C:\Windows\system32\xcopy.exe,File Exists,BUILTIN\Users,Allowed:,Read & Execute
+C:\Windows\system32\xcopy.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\xcopy.exe,File Exists,APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES,Allowed:,Read & Execute
+C:\Windows\system32\config\APPEVENT.EVT,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\config\SECEVENT.EVT,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\config\SYSEVENT.EVT,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\config\DNSEVENT.EVT,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\config\NTDS.EVT,File does not exist!,N/A,N/A,N/A
+C:\Windows\system32\config\NTFRS.EVT,File does not exist!,N/A,N/A,N/A
