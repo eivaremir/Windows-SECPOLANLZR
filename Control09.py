@@ -107,11 +107,11 @@ def execute(outdir):
 
 
     #################################
-    wp_res.to_csv(outdir+"\\wp_09.csv")#Alteryx.write(wp_res,2)
-
+    wp_res.to_csv(outdir+"\\wp_09.csv",index=False)
+    
 
     #################################
-    pd.DataFrame(notfound,columns=['User']).to_csv(outdir+"\\not_found09.csv")#Alteryx.write(pd.DataFrame(notfound,columns=['User']),3)
+    pd.DataFrame(notfound,columns=['User']).to_csv(outdir+"\\not_found09.csv",index=False)#Alteryx.write(pd.DataFrame(notfound,columns=['User']),3)
     
     print("[Control 09] Executed")
     #################################
